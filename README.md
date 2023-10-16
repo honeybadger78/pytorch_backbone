@@ -5,7 +5,7 @@
 - [✅] [Resnet](https://arxiv.org/abs/1512.03385)
 - [✅] [Resnext](https://arxiv.org/abs/1611.05431)
 - [❎] [SeNet](https://arxiv.org/abs/1709.01507)
-- [❎] [DenseNet](https://arxiv.org/abs/1608.06993)
+- [✅] [DenseNet](https://arxiv.org/abs/1608.06993)
 - [❎] [MobilenetV1](https://arxiv.org/abs/1704.04861)
 - [❎] [MobilenetV2](https://arxiv.org/abs/1704.04861)
 - [❎] [MobilenetV3](https://arxiv.org/abs/1905.02244) 
